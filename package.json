@@ -1,6 +1,6 @@
 {
   "name": "electron-app",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -10,8 +10,8 @@
     "deploy": "electron-builder build --win --publish always"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/KarthikBharadwajS/electron-update.git"
+    "type": "git",
+    "url": "https://github.com/KarthikBharadwajS/electron-update.git"
   },
   "author": "",
   "license": "ISC",
